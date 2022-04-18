@@ -7,7 +7,7 @@
 ### Desafio
 [ X ] Publicar uma imagem no docker hub.<br />
 [ X ] Quando executarmos docker run wwchacalww/codeeducation:prod <br />
-[ X ] Teremos o seguinte resultado: "Code.education Rocks!"
+[ X ] Teremos o seguinte resultado: "Code.education Rocks!" <br />
 [ X ] A imagem precisa ter menos de 2MB
 
 ### Solução
